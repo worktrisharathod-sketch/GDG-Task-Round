@@ -26,10 +26,10 @@ Repository containing my completed tasks for the Co-Lead position of the Design 
 
 ## Skills & Expertise
 
-- **Technical:** Adobe Creative Suite, Figma, Canva, Brand Identity Design
+- **Technical:** Figma, Canva, Brand Identity Design
 - **Non-Technical:** Team Management, Project Delegation, Creative Strategy
-- **Leadership:** Collaborative decision-making, conflict resolution, mentorship
-
+- **Leadership:** Collaborative decision-making, conflict resolution
+  
 ## My Vision for GDGC
 
 To guide my team in creating attractive, interactive posters for events while fostering collaborative learning sessions where every member's opinion is valued. I aim to bridge technical and non-technical domains through effective communication and coordinated design execution.
