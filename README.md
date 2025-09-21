@@ -3,7 +3,7 @@
 ## About Me
 
 **Trisha Rathod**  
-B.Des Design | 1st Year  
+24BAC10012
 +91 78999 95615  
 [LinkedIn](https://www.linkedin.com/in/trisha-rathod18/) | [Portfolio](https://www.canva.com/design/DAGxvq9SgyQ/EC157S0x0iU_xVXM5LQ-jg/edit)
 
